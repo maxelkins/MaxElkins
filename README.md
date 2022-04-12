@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaxElkins
+- 👋 Hi, I’m @maxelkins
 - 👀 I’m interested in design and web development
 - 🌱 I’m currently learning Javascript, React, Sass
 
