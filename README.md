@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @maxelkins
-- 👀 I’m interested in design and web development
+Senior Product Designer pushing pixels and commits.
 
 <!---
 MaxElkins/MaxElkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
